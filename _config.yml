@@ -11,7 +11,7 @@ description: "A Migration Aid a Magyarországra érkező menekültek segítésé
 
 # This URL is the main adresse. Don't include a slash at the end.
 # url: "http://www.migrationaid.net"
-# url: "http://csillu987.github.io"
+url: "http://csillu987.github.io"
 baseurl: "/migaidtest"
 
 
